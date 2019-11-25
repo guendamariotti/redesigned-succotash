@@ -1,0 +1,90 @@
+h1 {
+  color: white;
+  font-size: 50px;
+  font-family: "canela";
+  padding-top: 40px;
+  padding-left: 140px;
+}
+
+h2 {
+  color:white;
+  font-size: 20px;
+  font-family: "canela";
+  padding-top: 40px;
+  padding-left: 2px;
+  word-spacing: 5px;
+  line-height: 110%;
+  text-align: center;
+  width: 600px;
+}
+
+body, li {
+  background-color: black;
+  float:left;
+  list-style: none;
+  color: white;
+  font-size: 20px;
+  font-family: canela;
+  padding-left: 110px;
+  text-decoration: none;
+}
+
+a:link {
+  text-decoration: none;
+  padding: 20px;
+  color: white;
+}
+
+a:visited {
+  text-decoration: none;
+  color:white;
+}
+
+a:hover {
+  text-decoration: none;
+  color: white;
+  font-family: "canela";
+  font-style: italic;
+}
+
+a:active {
+  text-decoration: none;
+}
+
+.email {
+  padding-left: 250px;
+  padding-top: 100px;
+}
+
+img {
+  padding-top: 200px;
+  padding-left: 185px;
+  width: 200px;
+}
+
+img:hover{
+  text-decoration: none;
+  color: white;
+  border: red;
+
+}
+
+.img2{
+  padding-top: 0.5px;
+  padding-left: 1.4px;
+}
+
+.img3{
+  padding-top: 23px;
+  padding-left: 1.3px;
+}
+
+
+
+input, submit {
+  width: 53px;
+  padding-left:100px;
+  font-size: 14px;
+  font-family: "canela";
+  color: red;
+}
